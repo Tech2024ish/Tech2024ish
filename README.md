@@ -67,9 +67,9 @@ I'm a **Backend Developer at SilverLandTech** and a **Computer Science student a
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tech2024ish&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech2024ishE&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -79,7 +79,7 @@ I'm a **Backend Developer at SilverLandTech** and a **Computer Science student a
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Tech2024ish&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -137,7 +137,7 @@ My personal portfolio showcasing projects, skills, and professional experience.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ishimwe-jean-claude-goslish/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -145,7 +145,7 @@ My personal portfolio showcasing projects, skills, and professional experience.
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:claudeish88@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
