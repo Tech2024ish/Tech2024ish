@@ -61,14 +61,6 @@ I'm a **Backend Developer at SilverLandTech** and a **Computer Science student a
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
 
----
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tech2024ish&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech2024ish&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
