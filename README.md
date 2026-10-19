@@ -117,16 +117,6 @@ My personal portfolio showcasing projects, skills, and professional experience.
 - AI-powered Applications
 - Open Source
 
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ishimwe-jean-claude-goslish/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
 <a href="https://goslish.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
