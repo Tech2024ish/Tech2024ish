@@ -117,18 +117,6 @@ My personal portfolio showcasing projects, skills, and professional experience.
 - AI-powered Applications
 - Open Source
 
-<a href="https://goslish.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:claudeish88@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
 
 ⭐ Thanks for visiting my profile! I'm always excited to connect, collaborate, and build impactful software.
